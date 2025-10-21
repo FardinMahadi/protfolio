@@ -252,4 +252,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ⭐ Star this repo if you find it helpful!
 
-Made with 💙 by Fardin
+Made with 💙 by [@FardinMahadi](https://github.com/FardinMahadi/)
